@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4d48118f2dbff5f4193ddf98fb4f33f1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Player: {fileID: 4452946895878859714, guid: ad5e062ac77e29f47815e90ab953e2a9, type: 3}
+  - UniqueDeer: {fileID: 2297959779923269516, guid: 6ce2d13d2d0c90341bd54c9b8401fbe8, type: 3}
+  - Centroid: {fileID: 58609879940014344, guid: 1c44721b4d9959a4eb45e07a1b9bc0aa, type: 3}
+  - ClusterPoint: {fileID: 2686605659566142077, guid: b48d6ff0829786145be042f8cc6154df, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
